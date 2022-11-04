@@ -561,7 +561,7 @@ _Details coming soon ..._
 | [View your schedule list](#446-view-your-schedule-view)   | `view [m/MODULE_CODE]... [w/WEEKDAY]...`                     | `view m/CS2103T w/Monday`                                    |
 | [View your timetable](#447-view-your-timetable-tview)     | `tview`                                                      | `tview`                                                      |
 
-### 6.5 Misc Command Summary
+### 6.5 Miscellaneous Command Summary
 
 | Action                                       | Format                                                       | Example                                                      |
 |----------------------------------------------| ------------------------------------------------------------ | ------------------------------------------------------------ |
